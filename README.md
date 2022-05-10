@@ -3,6 +3,6 @@ Karnataka CET
 
 |Subject | Link|
 |-|-|
-|Physics| [README](Physics/README.md)|
-|Chemistry| [README](Chemistry/README.md)|
-|Maths| [README](Maths/README.md)|
+|Physics| [README](physics/README.md)|
+|Chemistry| [README](chemistry/README.md)|
+|Maths| [README](maths/README.md)|
